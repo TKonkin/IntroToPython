@@ -12,10 +12,11 @@ prospector
 scikit-learn
 scipy
 seaborn
-spacy
+# spacy
 textatistic
 textblob
 pymongo
 pyspark
-tensorflow
+# tensorflow
 wordcloud
+
