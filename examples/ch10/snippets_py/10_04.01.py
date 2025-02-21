@@ -24,7 +24,7 @@ wake_up.hour = 6
 wake_up
 
 # Attempting to Set an Invalid Value 
-wake_up.hour = 100
+# wake_up.hour = 100
 
 
 
